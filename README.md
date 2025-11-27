@@ -1,2 +1,2 @@
 # Project
-Projects including Python, Machine learning using libraries like Numpy, Pandas, Sci-kit learn and son to make predictions and Mysql as database and Power BI for visualization. The data is cleaned and preprocessed using python in Colab.
+Projects including Python, Machine learning using libraries like Numpy, Pandas, Sci-kit learn and son to make predictions and Mysql as database and Power BI for visualization. The data is cleaned and preprocessed using python in Colab and Jupyter.the datasets are divided into training and testing set and selecting suitable model depending on the data. The model is trained for making the predictions and prediction is made.
